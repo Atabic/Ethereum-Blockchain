@@ -13,4 +13,4 @@ https://www.npmjs.com/package/truffle
 # Compile contract source files.
     truffle compile [--list <filter>] [--all] [--network <name>] [--quiet]
 # Run a console with contract abstractions and commands available.
-truffle console [--network <name>] [--verbose-rpc]
+    truffle console [--network <name>] [--verbose-rpc]
