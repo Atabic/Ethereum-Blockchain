@@ -7,7 +7,7 @@ https://www.trufflesuite.com/ganache
 https://www.npmjs.com/package/truffle
 # Truffle-config.js should be placed in GANACHE setting 
 
-# Truffle command lines
+## Truffle command lines
 # Execute build pipeline (if configuration present)
     truffle build
 # Compile contract source files.
